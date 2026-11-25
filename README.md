@@ -3,7 +3,7 @@
 [![license MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![docs](https://img.shields.io/badge/docs-keepemposted.com-F2452B)](https://keepemposted.com/docs/api)
 
-**Write a post once and schedule it to Instagram, Facebook, TikTok, YouTube, X, Bluesky, Mastodon, Telegram and Discord from your own script. Each platform's rules are checked before anything is scheduled, and a person approves before it goes out.**
+**Write a post once and schedule it to Instagram, Facebook, TikTok, YouTube, X, Bluesky, Mastodon, Telegram, Discord and Google Business Profile from your own script. Each platform's rules are checked before anything is scheduled, and a person approves before it goes out.**
 
 These are runnable examples for the [Keep 'em Posted REST API](https://keepemposted.com/docs/api) in curl, Python, JavaScript and PHP, plus the setup for the [Keep 'em Posted MCP server](docs/mcp.md) that lets Claude, ChatGPT and other AI agents do the same. [Keep 'em Posted](https://keepemposted.com) is a social media scheduler for people who run many brands on many accounts: one queue for every account, a voice per brand, and approval in the app for what an agent or a script wrote. The examples have no dependencies, so you can copy one file and run it.
 
